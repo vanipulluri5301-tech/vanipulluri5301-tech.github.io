@@ -28,3 +28,5 @@ https://github.com/vanipulluri5301-tech/customer-revenue-analysis
 ## 📫 Contact
 - GitHub: https://github.com/vanipulluri5301-tech
 - LinkedIn: *(add your LinkedIn URL here)*
+- _Last updated: March 2025_
+
